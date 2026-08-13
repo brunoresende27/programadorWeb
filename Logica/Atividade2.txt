@@ -1,0 +1,13 @@
+Prática:
+Desenvolva um sistema que solicite o nome completo do usuário
+e retorne os seguintes resultados:
+1 - Todas as letras maiúsculas
+2 - Todas as letras minúsculas
+3 - A quantidade de caracteres do nome
+4 - A quantidade de caracteres do primeiro nome do usuário
+5 - Verifique se o nome completo existe "Silva"
+6 - Mostre quantas vezes aparece a letra "a" no nome completo
+7 - Mostre em qual posição aparece a letra "a" pela primeira vez
+8 - Mostre em qual posição aparece a letra "a" pela última vez
+9 - Mostre apenas o primeiro nome do usuário
+10 - Mostre apenas o último nome do usuário
